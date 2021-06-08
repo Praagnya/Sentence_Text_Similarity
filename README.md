@@ -9,7 +9,7 @@ Approach to model building:
 - It simply averages all the contextualised word embeddings of BERT. This gives 768 dimensional output vector which is independent of how long our input vector(corpus).
 - We can then use, Cosine Similarity for analysis where cosine similarity is cosine of the angle between two vectors.
 
-Sample Model of Sentence_BERT https://www.sbert.net/docs/usage/semantic_textual_similarity.html
+Sample Model of Sentence-BERT https://www.sbert.net/docs/usage/semantic_textual_similarity.html
 
 
 References: 
