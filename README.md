@@ -37,5 +37,5 @@ for i in range(len(sentences1)):
 
 
 References: 
-https://arxiv.org/pdf/1908.10084.pdf
-https://www.sbert.net/docs/usage/semantic_textual_similarity.html
+- https://arxiv.org/pdf/1908.10084.pdf
+- https://www.sbert.net/docs/usage/semantic_textual_similarity.html
