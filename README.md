@@ -10,7 +10,7 @@ Approach to model building:
 - We can then use, Cosine Similarity for analysis where cosine similarity is cosine of the angle between two vectors.
 
 Sample Model of Sentence-BERT https://www.sbert.net/docs/usage/semantic_textual_similarity.html
-```
+```python
 from sentence_transformers import SentenceTransformer, util
 model = SentenceTransformer('paraphrase-MiniLM-L12-v2')
 
